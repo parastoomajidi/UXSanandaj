@@ -4,7 +4,7 @@ The User Experience Design Community of Sanandaj
 
 ---
 
-🌐 **Official Website:** [www.uxsanandaj.ir]([https://www.uxsanandaj.ir](https://parastoomajidi.github.io/UXSanandaj/))
+🌐 **Official Website:** [www.uxsanandaj.ir](https://parastoomajidi.github.io/UXSanandaj/)
 
 ---
 
